@@ -1,0 +1,100 @@
+{
+    "coolDrinks": [
+        {
+            "title": "ORANGE SHAKE",
+            "content": "₹200",
+            "src": "image/juice 1.1.jpg"
+        },
+        {
+            "title": "ORANGE JUICE",
+            "content": "₹150",
+            "src": "image/juice 2.jpg"
+        },
+        {
+            "title": "MANGO JUICE",
+            "content": "₹250",
+            "src": "image/juice5.jpg"
+        },
+        {
+            "title": "LIME JUICE",
+            "content": "₹180",
+            "src": "image/juice4.jpg"
+        },
+        {
+            "title": "FRUIT JUICE",
+            "content": "₹90",
+            "src": "image/juice6 (2).jpg"
+        },
+        {
+            "title": "STRAWBERRY",
+            "content": "₹200",
+            "src": "image/juice 8.jpg"
+        }
+    ],
+    "pizza": [
+        {
+            "title": "Mediterranea",
+            "content": "₹180",
+            "src": "image/pizza2.png"
+        },
+        {
+            "title": "Ricotta E Spinac",
+            "content": "₹190",
+            "src": "image/pizza03.png"
+        },
+        {
+            "title": "Mare E Monti",
+            "content": "₹140",
+            "src": "image/pizza04.png"
+        },
+        {
+            "title": "Boscaiola",
+            "content": "₹130",
+            "src": "image/pizza05.png"
+        },
+        {
+            "title": "Campagnola",
+            "content": "₹200",
+            "src": "image/pizza07.png"
+        },
+        {
+            "title": "Parmigiana",
+            "content": "₹160",
+            "src": "image/pizza06.png"
+        }
+    ],
+    "snacks": [
+        {
+            "title": "Potato fingers",
+            "content": "₹70",
+            "src": "image/snacks1.jpeg"
+        },
+        {
+            "title": "Bread Cutlet",
+            "content": "₹80",
+            "src": "image/snacks2.jpeg"
+        },
+        {
+            "title": "Roll",
+            "content": "₹15",
+            "src": "image/snacks03.jpeg"
+        },
+        {
+            "title": "Suji Paneer",
+            "content": "₹25",
+            "src": "image/snaks04.jpeg"
+        },
+        {
+            "title": "Samosa",
+            "content": "₹10",
+            "src": "image/snacks05.jpeg"
+        },
+        {
+            "title": "Shawerma",
+            "content": "₹50",
+            "src": "image/snacks06.jpeg"
+        }
+    ]
+
+}
+
